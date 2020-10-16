@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height:100vh;
+}
+.give{
+    padding-left: 20%;
+    margin-top: 5%;
+}
+.name{
+    padding-left: 23%;
+    margin-top: -2.8%;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.picture{
+    float: right;
+    margin-top:-43%;
+    padding:10%;
+}
+.come{
+    padding-left: 20%;
+    font-size: 4rem;
+}
+span{
+    color: pink;
+}
+.fellow{
+    font-size: 1rem;
+    color:pink ;
+    padding-left: 20%;
+}
+.address{
+    padding-left: 20%;
+}
+input{
+    width: 350px;
+    height: 50px;
+    padding-left: 40px;
+    border-radius: 20px;
+    outline: lightpink;
+    border-color:lightpink;
+}
+button{
+    width: 90px;
+    height:50px;
+    margin-left: -80px;
+    border-radius: 20px;
+    border-color: rgb(206, 87, 170);
+    background-color: rgb(214, 57, 167);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
